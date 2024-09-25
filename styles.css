@@ -3,9 +3,9 @@ body {background-color: darkgrey;
 h1{text-align: center;
 color: #ff0000;
 }
-#ima1 {width: 100%;
+#ima1 {width: 75%;
 }
-#ima2 {width: 100%;
+#ima2 {width: 75%;
 }
 h2 {background-color:blue;
 }
@@ -13,7 +13,7 @@ h3 {background-color: rgb(87, 210, 30);
 }
 h5 {background-color: chocolate;
 }
-#ima3 {width: 100%;
+#ima3 {width: 75%;
 }
 #ima1{border-color: yellow;
     border-style: double;
