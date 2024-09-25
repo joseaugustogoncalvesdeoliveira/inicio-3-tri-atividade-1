@@ -18,3 +18,11 @@ h5 {background-color: chocolate;
 #ima1{border-color: yellow;
     border-style: double;
    border-width: 37px;}
+
+#ima2{border-color: lawngreen;
+    border-style: double;
+   border-width: 37px;}
+
+#ima3{border-color: rgb(55, 0, 255);
+    border-style: double;
+   border-width: 37px;}
