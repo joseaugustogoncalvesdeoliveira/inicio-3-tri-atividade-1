@@ -25,13 +25,20 @@ h2 {margin-right: 10;
 h3 {background-color: rgb(87, 210, 30);
 }
 h3{border-color: forestgreen;
-border-style: hidden;
+border-style: dotted;
 border-width: 20px;
 }
 h2{margin-right: 10px;
 }
 h5 {background-color: chocolate;
 }
+h3{border-color: rgb(158, 168, 12);
+    border-style: dotted;
+    border-width: 20px;
+    }
+    h2{margin-right: 10px;
+    }
+
 #ima3 {width: 75%;
 }
 #ima1{border-color: yellow;
