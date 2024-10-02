@@ -17,7 +17,7 @@ h1 {margin-right: 20px;
 h2 {background-color:blue;
 }
 h2{border-color: darkcyan;
-border-style: dotted;
+border-style: dashed;
 border-width: 20px;
 }
 h2 {margin-right: 10;
@@ -25,7 +25,7 @@ h2 {margin-right: 10;
 h3 {background-color: rgb(87, 210, 30);
 }
 h3{border-color: forestgreen;
-border-style: dotted;
+border-style: dashed;
 border-width: 20px;
 }
 h2{margin-right: 10px;
@@ -33,7 +33,7 @@ h2{margin-right: 10px;
 h5 {background-color: chocolate;
 }
 h5{border-color: rgb(158, 168, 12);
-    border-style: dotted;
+    border-style: dashed;
     border-width: 20px;
     }
     h2{margin-right: 10px;
@@ -41,17 +41,17 @@ h5{border-color: rgb(158, 168, 12);
 
 #ima3 {width: 75%;
 }
-#ima1{border-color: yellow;
+#ima1{border-color:greenyellow;
     border-style: double;
    border-width: 37px;
 }
 
-#ima2{border-color: lawngreen;
+#ima2{border-color: greenyellow;
     border-style: double;
    border-width: 37px;
 }
 
-#ima3{border-color: rgb(55, 0, 255);
+#ima3{border-color: greenyellow;
     border-style: double;
    border-width: 37px;
 }
