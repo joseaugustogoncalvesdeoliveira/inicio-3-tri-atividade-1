@@ -3,11 +3,22 @@ body {background-color: darkgrey;
 h1{text-align: center;
 color: #ff0000;
 }
+h1 {border-color: blueviolet;
+    border-style: dashed;
+    border-width: 15px;
+ }
+h1 {margin-right: 20px;
+}
+    
 #ima1 {width: 75%;
 }
 #ima2 {width: 75%;
 }
 h2 {background-color:blue;
+}
+h2{border-color: darkcyan;
+border-style: dotted;
+border-width: 20px;
 }
 h3 {background-color: rgb(87, 210, 30);
 }
@@ -30,9 +41,4 @@ h5 {background-color: chocolate;
    border-width: 37px;
 }
 
-h1 {border-color: blueviolet;
-border-style: dashed;
-border-width: 20px;
-}
-h1 {margin-right: 20px;
-}
+
