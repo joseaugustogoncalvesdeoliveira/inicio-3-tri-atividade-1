@@ -42,7 +42,7 @@ h5{border-color: rgb(158, 168, 12);
 #ima3 {width: 75%;
 }
 #ima1{border-color:rgb(176, 253, 59);
-    border-style: inherit;
+    border-style: dashed;
    border-width: 37px;
 }
 
