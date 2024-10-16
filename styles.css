@@ -43,7 +43,7 @@ h5{border-color: rgb(158, 168, 12);
 }
 #ima1{border-color:rgb(176, 253, 59);
     border-style: dashed;
-   border-width: 37px;
+   border-width: 35px;
 }
 
 #ima2{border-color: rgb(117, 184, 17);
@@ -53,12 +53,13 @@ h5{border-color: rgb(158, 168, 12);
 
 #ima3{border-color: rgb(81, 129, 7);
     border-style: groove;
-   border-width: 37px;
+   border-width: 40px;
 }
 
 main {background-color: blueviolet;
 }
-footer {border-color: rgb(255, 0, 0);}
+footer {border-color: rgb(255, 0, 0);
 }
-head {background-color: rgb(233, 105, 0);}
+head {background-color: rgb(233, 105, 0);
+}
 
